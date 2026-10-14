@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp projekt\\Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\dodajknjigu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\dodajknjigu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\dodajknjigu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\dodajknjigu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\models\\eknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\models\\eknjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\models\\iposudivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\models\\iposudivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\projekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\projekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\models\\isbninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\models\\isbninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\services\\knjigarepozitorij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\services\\knjigarepozitorij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\exceptions\\knjiganijedostupnaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\exceptions\\knjiganijedostupnaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|d:\\csharp projekt\\projekt\\projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D12C13-0D9D-B73D-6745-3683A044400D}|Projekt\\Projekt.csproj|solutionrelative:projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DodajKnjigu.cs [Design]",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\DodajKnjigu.cs",
+              "RelativeDocumentMoniker": "Projekt\\DodajKnjigu.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\DodajKnjigu.cs [Design]",
+              "RelativeToolTip": "Projekt\\DodajKnjigu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:06:34.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KnjigaNijeDostupnaException.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Exceptions\\KnjigaNijeDostupnaException.cs",
+              "RelativeDocumentMoniker": "Projekt\\Exceptions\\KnjigaNijeDostupnaException.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Exceptions\\KnjigaNijeDostupnaException.cs",
+              "RelativeToolTip": "Projekt\\Exceptions\\KnjigaNijeDostupnaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:50:02.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projekt.csproj",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Projekt.csproj",
+              "RelativeDocumentMoniker": "Projekt\\Projekt.csproj",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Projekt.csproj",
+              "RelativeToolTip": "Projekt\\Projekt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-03T22:49:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISBNInfo.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\ISBNInfo.cs",
+              "RelativeDocumentMoniker": "Projekt\\Models\\ISBNInfo.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\ISBNInfo.cs",
+              "RelativeToolTip": "Projekt\\Models\\ISBNInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:45:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPosudivo.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\IPosudivo.cs",
+              "RelativeDocumentMoniker": "Projekt\\Models\\IPosudivo.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\IPosudivo.cs",
+              "RelativeToolTip": "Projekt\\Models\\IPosudivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:45:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EKnjiga.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\EKnjiga.cs",
+              "RelativeDocumentMoniker": "Projekt\\Models\\EKnjiga.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\EKnjiga.cs",
+              "RelativeToolTip": "Projekt\\Models\\EKnjiga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:42:48.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Form1.cs",
+              "RelativeDocumentMoniker": "Projekt\\Form1.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Form1.cs",
+              "RelativeToolTip": "Projekt\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:47:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Form1.cs",
+              "RelativeDocumentMoniker": "Projekt\\Form1.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Form1.cs [Design]",
+              "RelativeToolTip": "Projekt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:47:13.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\Knjiga.cs",
+              "RelativeDocumentMoniker": "Projekt\\Models\\Knjiga.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Models\\Knjiga.cs",
+              "RelativeToolTip": "Projekt\\Models\\Knjiga.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:36:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetaljiKnjige.cs [Design]",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\DetaljiKnjige.cs",
+              "RelativeDocumentMoniker": "Projekt\\DetaljiKnjige.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\DetaljiKnjige.cs [Design]",
+              "RelativeToolTip": "Projekt\\DetaljiKnjige.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:29:31.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetaljiKnjige.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\DetaljiKnjige.cs",
+              "RelativeDocumentMoniker": "Projekt\\DetaljiKnjige.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\DetaljiKnjige.cs",
+              "RelativeToolTip": "Projekt\\DetaljiKnjige.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:29:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DodajKnjigu.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\DodajKnjigu.cs",
+              "RelativeDocumentMoniker": "Projekt\\DodajKnjigu.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\DodajKnjigu.cs",
+              "RelativeToolTip": "Projekt\\DodajKnjigu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T23:12:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt\\Program.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Program.cs",
+              "RelativeToolTip": "Projekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:47:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KnjigaRepozitorij.cs",
+              "DocumentMoniker": "D:\\Csharp projekt\\Projekt\\Projekt\\Services\\KnjigaRepozitorij.cs",
+              "RelativeDocumentMoniker": "Projekt\\Services\\KnjigaRepozitorij.cs",
+              "ToolTip": "D:\\Csharp projekt\\Projekt\\Projekt\\Services\\KnjigaRepozitorij.cs",
+              "RelativeToolTip": "Projekt\\Services\\KnjigaRepozitorij.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T22:52:50.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

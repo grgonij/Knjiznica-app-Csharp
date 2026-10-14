@@ -1,0 +1,62 @@
+[
+  {
+    "Naslov": "Rat i mir",
+    "Autor": "Lav Tolstoj",
+    "Procitano": true,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "978-953-14-0001-1",
+      "Izdavac": "Mozaik knjiga"
+    }
+  },
+  {
+    "Naslov": "1984",
+    "Autor": "George Orwell",
+    "Procitano": false,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "978-953-14-0002-8",
+      "Izdavac": "SysPrint"
+    }
+  },
+  {
+    "Naslov": "\u010Covjek u potrazi za smislom",
+    "Autor": "Viktor Frankl",
+    "Procitano": true,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "978-953-14-0003-5",
+      "Izdavac": "Naklada Fibra"
+    }
+  },
+  {
+    "Naslov": "Sto godina samo\u0107e",
+    "Autor": "Gabriel Garc\u00EDa M\u00E1rquez",
+    "Procitano": false,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "978-953-14-0004-2",
+      "Izdavac": "Vukovi\u0107 \u0026 Runji\u0107"
+    }
+  },
+  {
+    "Naslov": "Dudov svilac",
+    "Autor": "Robert Galbraith",
+    "Procitano": true,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "978-953-14-3692",
+      "Izdavac": "Nepoznat izdava\u010D"
+    }
+  },
+  {
+    "Naslov": "asd",
+    "Autor": "asd",
+    "Procitano": true,
+    "Dostupna": true,
+    "Isbn": {
+      "Isbn": "123",
+      "Izdavac": "Nepoznat izdava\u010D"
+    }
+  }
+]
